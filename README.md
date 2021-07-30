@@ -1,2 +1,2 @@
 # DemoRepo_GIt_GUI_existing
- My second practice with Github Desktop with existing local repo
+ This is DemoRepo_GIt_GUI_existing and from existing local repo.
