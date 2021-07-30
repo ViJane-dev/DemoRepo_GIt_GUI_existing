@@ -1,7 +1,6 @@
 # DemoRepo_GIt_GUI_existing
+ My second practice with Github Desktop with existing local repo
 
- My second practice with Github Desktop with existing local repo from Features branch.
+ I can write programs with Git and SourceTree properly.
 
- I do my new practice skills with SourceTree GUI in the Features branch.
-
- This is DemoRepo_GIt_GUI_existing and from existing local repo.
+ This is My Experimental Task with Git and SourceTree.
